@@ -1,0 +1,1 @@
+The medieval fantasy world in which the players begin. This place is full of [[Dragons]], magic, [kings](The%20Monarchy%20In%20Calumnia.md), queens, and other fantastic things.

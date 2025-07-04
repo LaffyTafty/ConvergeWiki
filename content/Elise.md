@@ -1,0 +1,1 @@
+Elise plays a [[Human]]. She is a [[Warlock]] that serves an [[Archfey]].

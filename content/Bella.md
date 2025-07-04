@@ -1,0 +1,1 @@
+Bella plays a [[Goliath]] named Ashy'l Maabu, a [[Goliath]] [[Rogue]] who stole a working time machine, which sent her into the [past](Calumnia). She wields a [[Photon Blaster]]. She is the Yin to [Sierra's](Sierra) Yang.

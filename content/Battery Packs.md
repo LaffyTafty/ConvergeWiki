@@ -1,0 +1,1 @@
+Battery Packs are a rare item used to charge the [[Photon Blaster]]. They contain 100% battery power.
