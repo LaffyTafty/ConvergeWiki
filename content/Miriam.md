@@ -1,0 +1,1 @@
+Miriam is playing Cameron, an [[orc]] [[paladin]] who used to be a gladiatrix.
