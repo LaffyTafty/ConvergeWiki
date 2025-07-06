@@ -6,6 +6,42 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Ryleigh</title>
+    <link>https://quartz.jzhao.xyz/Ryleigh</link>
+    <guid>https://quartz.jzhao.xyz/Ryleigh</guid>
+    <description>Ryleigh plays dwarf bard.</description>
+    <pubDate>Sat, 05 Jul 2025 19:40:24 GMT</pubDate>
+  </item><item>
+    <title>Donorae</title>
+    <link>https://quartz.jzhao.xyz/Donorae</link>
+    <guid>https://quartz.jzhao.xyz/Donorae</guid>
+    <description>Donorae plays a human rogue.</description>
+    <pubDate>Sat, 05 Jul 2025 19:39:48 GMT</pubDate>
+  </item><item>
+    <title>Miriam</title>
+    <link>https://quartz.jzhao.xyz/Miriam</link>
+    <guid>https://quartz.jzhao.xyz/Miriam</guid>
+    <description>Miriam is playing Cameron, an orc paladin who used to be a gladiatrix.</description>
+    <pubDate>Sat, 05 Jul 2025 19:34:08 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>This world is made. It begins, the realm is set in Calumnia. The points converge.</description>
+    <pubDate>Sat, 05 Jul 2025 15:03:46 GMT</pubDate>
+  </item><item>
+    <title>Sola</title>
+    <link>https://quartz.jzhao.xyz/Sola</link>
+    <guid>https://quartz.jzhao.xyz/Sola</guid>
+    <description> “And behold, she raised her claws, and upon the Cronanites befell a fiery curse, even so that tears they wept did not touch the ground before burning away.” - The Chronicles of Sola, 1st Crona 12:13.</description>
+    <pubDate>Sat, 05 Jul 2025 08:24:45 GMT</pubDate>
+  </item><item>
+    <title>Order of Sola</title>
+    <link>https://quartz.jzhao.xyz/Order-of-Sola</link>
+    <guid>https://quartz.jzhao.xyz/Order-of-Sola</guid>
+    <description></description>
+    <pubDate>Sat, 05 Jul 2025 07:51:13 GMT</pubDate>
+  </item><item>
     <title>Battery Packs</title>
     <link>https://quartz.jzhao.xyz/Battery-Packs</link>
     <guid>https://quartz.jzhao.xyz/Battery-Packs</guid>
@@ -15,7 +51,7 @@
     <title>Bella</title>
     <link>https://quartz.jzhao.xyz/Bella</link>
     <guid>https://quartz.jzhao.xyz/Bella</guid>
-    <description>Bella plays a Goliath named Ashy’l Maabu, a Goliath Rogue who stole a working time machine, which sent her into the past. She wields a Photon Blaster.</description>
+    <description> ”…” - Ashy’l Maabu, the Silent Gunner.</description>
     <pubDate>Fri, 04 Jul 2025 19:38:51 GMT</pubDate>
   </item><item>
     <title>Calumnia</title>
@@ -27,31 +63,7 @@
     <title>Elise</title>
     <link>https://quartz.jzhao.xyz/Elise</link>
     <guid>https://quartz.jzhao.xyz/Elise</guid>
-    <description>Elise plays a Human. She is a Warlock that serves an Archfey.</description>
-    <pubDate>Fri, 04 Jul 2025 19:38:51 GMT</pubDate>
-  </item><item>
-    <title>Photon Blaster</title>
-    <link>https://quartz.jzhao.xyz/Photon-Blaster</link>
-    <guid>https://quartz.jzhao.xyz/Photon-Blaster</guid>
-    <description> “Pew Pew!” - Photon Blaster The photon blaster is a rare, futuristic weapon which consumes Battery Packs to shoot photon blasts.</description>
-    <pubDate>Fri, 04 Jul 2025 19:38:51 GMT</pubDate>
-  </item><item>
-    <title>Sierra</title>
-    <link>https://quartz.jzhao.xyz/Sierra</link>
-    <guid>https://quartz.jzhao.xyz/Sierra</guid>
-    <description>Sierra plays a halfling rogue, named Maerix Armnik. Maerix is chaotic evil, and is the Yang to Bella’s Yin.</description>
-    <pubDate>Fri, 04 Jul 2025 19:38:51 GMT</pubDate>
-  </item><item>
-    <title>Tafton</title>
-    <link>https://quartz.jzhao.xyz/Tafton</link>
-    <guid>https://quartz.jzhao.xyz/Tafton</guid>
-    <description>Humble creator of The Beginning.</description>
-    <pubDate>Fri, 04 Jul 2025 19:38:51 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This world is made. It begins, the realm is set in Calumnia. The points converge.</description>
+    <description>Elise plays a Human. She is a Warlock that serves an Archfey. Little is known about her character.</description>
     <pubDate>Fri, 04 Jul 2025 19:38:51 GMT</pubDate>
   </item>
     </channel>
